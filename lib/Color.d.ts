@@ -14,5 +14,6 @@ declare const _default: {
     midnightBlue: string;
     optionTintColor: string;
     timeTextColor: string;
+    primary: string;
 };
 export default _default;
